@@ -1,0 +1,68 @@
+body{
+    background-color: #E7E9FF;
+}
+
+
+.rectanglewhite{
+    position: fixed;
+    left: 35%;
+    top: 8%;
+    width: 350px;
+    height: 400px;
+    background-color: white ;
+    border-radius:20px;
+    
+}
+
+.rectangleGray{
+    position: fixed;
+    left: 35.5%;
+    top: 60px;
+    width: 337px;
+    height: 160px;
+    background-color: #2A2D37;
+    border-radius: 20px;
+}
+
+h1{
+    position: fixed;
+    top: 40%;
+    left: 37%;
+    z-index: 100;
+    font-size: 150%;
+    font-family: cursive ;
+}
+
+h2{
+    position: fixed;
+    top: 50%;
+    left: 37%;
+    z-index: 100;
+    font-size: 90%;
+    font-family: cursive ;
+    font-weight: 100;
+}
+
+h3{
+    position: fixed;
+    top: 46%;
+    left: 37%;
+    z-index: 100;
+    font-size: 90%;
+    font-family: cursive ;
+    font-weight: 100;
+}
+
+.rectangleBlue{
+    position: fixed;
+    left: 730px;
+    top: 250px;
+    width: 80px;
+    height: 50px;
+    background-color: #0571ED ;
+    border-radius: 45px;
+    text-align: center;
+}
+
+
+
